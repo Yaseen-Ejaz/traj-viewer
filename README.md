@@ -15,7 +15,9 @@ The classifiers folder is to hold modules that script uses to classify parts of 
 
 - `streamlit run gui/app.py`
 
-## TODO
+## For multiple keywords
+
+- `streamlit run trajectory_viewer.py`
 
 ## Notes
 
