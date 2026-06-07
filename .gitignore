@@ -1,0 +1,13 @@
+20250425_Refact_Agent
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+.DS_Store
+.idea/
+.vscode/
+venv/
+env/
